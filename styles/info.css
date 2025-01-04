@@ -22,7 +22,7 @@
 
 @media screen and (width > 768px) {
     .sides-margin{
-        width: 140vh;
+        width: 100%;
         
         .info{
             display: flex;
