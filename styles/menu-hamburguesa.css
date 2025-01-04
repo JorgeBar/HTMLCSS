@@ -2,7 +2,7 @@
     font-family: var(--main-font-family);
     position: sticky;
     top: 0;
-    z-index: 99;
+    z-index: 999;
     background-color: rgb(19, 19, 19);
     display: flex;
     justify-content: space-between;
