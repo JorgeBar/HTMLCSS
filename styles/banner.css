@@ -1,5 +1,6 @@
 .banner{
     height: 70vh; /*vh similar al porcentaje de lo que ocupara en la pantalla viewport*/
+    width: 100%;
    
     align-content: center;
     position:relative;
