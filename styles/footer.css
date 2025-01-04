@@ -6,7 +6,7 @@
     max-height: 100px;
     background-color: var(--bg-color);
     color: var(--main-text-color);
-    margin: 10px;
+    margin: 0.6rem;
   .enlaces{
     display: flex;
     justify-content: center;

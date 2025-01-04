@@ -59,7 +59,7 @@
 }
 
 
-@media screen and (width >1100px) {
+@media screen and (width >1024px) {
     .audiovisual{
         .video{
             width: 50rem;
@@ -71,7 +71,7 @@
     .audiovisual{
         .video{
             width: 80rem;
-            margin-top: -400px;
+            margin-top: -25rem;
         }
     }
 }
