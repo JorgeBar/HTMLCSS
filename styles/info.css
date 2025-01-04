@@ -22,7 +22,7 @@
 
 @media screen and (width > 768px) {
     .sides-margin{
-        width: 140vh;
+        width: 90%;
         
         .info{
             display: flex;
@@ -57,27 +57,67 @@
     }
 
 @media screen and (width >768px) {
+    .info{
+        
+        .texto{
+            margin-top: 10rem;
+            font-size: 1.1rem;
+        }
+        .barras{
+            margin-top: 14rem;
+            font-size: 1.4rem;
+        }
+    }
         .audiovisual{
             .video{
                 width: 30rem;
+                width: 100%;
+                height: auto;
             }
         }
 }
 
 
 @media screen and (width >1024px) {
+    .info{
+        
+        .texto{
+            margin-top: 10rem;
+            font-size: 1.1rem;
+        }
+        .barras{
+            margin-top: 12rem;
+            font-size: 1.4rem;
+        }
+    }
     .audiovisual{
         .video{
             width: 50rem;
+            width: 100%;
+            height: auto;
         }
     }
 }
 
 @media screen and (width >2000px) {
+    .info{
+        
+        .texto{
+            margin-top: 10rem;
+            font-size: 1.5rem;
+        }
+        .barras{
+            margin-top: 12rem;
+            font-size: 1.4rem;
+        }
+    }
     .audiovisual{
+        
+        margin-bottom: 5rem;
         .video{
             width: 80rem;
-            margin-top: -25rem;
+            width: 80%;
+            
         }
     }
 }
